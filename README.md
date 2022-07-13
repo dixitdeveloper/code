@@ -1,2 +1,2 @@
-# code
-It just a Garbage
+# Garbage Directory
+# All of my testing and learning code is hear
